@@ -1,0 +1,12 @@
+3Q 小達人 V4 部署檢查清單
+
+[ ] Repository：smpsd00-hash/sanmin-3q
+[ ] 分支：main
+[ ] 根目錄可看到 index.html、comics.json、comics/、assets/
+[ ] comics/ 有四張英文檔名 WebP 漫畫
+[ ] assets/documents/ 有三份英文檔名教師文件
+[ ] GitHub Pages 設定為 main / (root)
+[ ] Actions 中 Pages 部署成功
+[ ] Netlify 若使用同一來源，確認發布分支為 main、Publish directory 為 .
+[ ] 測試四張漫畫直接圖片網址
+[ ] 測試三份文件下載網址
