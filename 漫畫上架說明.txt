@@ -1,0 +1,22 @@
+3Q 小達人漫畫專區上架說明
+
+本次修正已將四張漫畫正式加入網站：
+1. AQ：逆境智商－三民機器人逆轉勝
+2. EQ：情緒智商－理解情緒、好好溝通
+3. MQ：道德智商－正直誠信的競賽風雲
+4. 3Q：超能冒險－AQ × EQ × MQ 綜合篇
+
+檔案位置：
+- 漫畫圖片：comics/ 資料夾
+- 漫畫清單：網站根目錄 comics.json
+- 網頁：index.html
+
+部署方式：
+1. 解壓縮本套件。
+2. 開啟其中的「3Q小達人網站」資料夾。
+3. 將資料夾內所有檔案及資料夾上傳至 GitHub Repository 根目錄，選擇覆蓋同名舊檔案。
+4. 確認 GitHub 上有 index.html、comics.json、comics/ 資料夾。
+5. Netlify 會自動重新部署；若沒有，進入 Deploys 手動觸發重新部署。
+6. 開啟 https://sanmin-3q.netlify.app/#comics ，按 Ctrl+F5 強制重新整理。
+
+注意：不可只上傳 index.html，必須一併上傳 comics.json 與整個 comics/ 資料夾，否則漫畫圖片仍會無法顯示。
