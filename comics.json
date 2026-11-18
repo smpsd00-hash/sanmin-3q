@@ -1,1 +1,3 @@
-[]
+[ {"category":"AQ","title":"AQ 漫畫第 1 頁","src":"comics/aq-01.png"},
+  {"category":"EQ","title":"EQ 漫畫第 1 頁","src":"comics/eq-01.png"},
+  {"category":"MQ","title":"MQ 漫畫第 1 頁","src":"comics/mq-01.png"}]
