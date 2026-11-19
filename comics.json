@@ -1,30 +1,58 @@
 [
   {
-    "category": "AQ",
-    "title": "逆境智商：三民機器人逆轉勝",
-    "description": "面對機器人競賽中的突發故障，主角調整策略、與夥伴合作，展現勇於挑戰與持續嘗試的 AQ 精神。",
-    "src": "comics/01-AQ-robot-comeback.webp",
-    "alt": "AQ 逆境智商漫畫：三民機器人逆轉勝"
-  },
-  {
-    "category": "EQ",
-    "title": "EQ 情緒智商：理解情緒、好好溝通",
-    "description": "從團隊意見衝突出發，練習覺察情緒、深呼吸、換位思考與正向溝通。",
-    "src": "comics/02-EQ-emotional-intelligence.webp",
-    "alt": "EQ 情緒智商漫畫：理解情緒、好好溝通"
-  },
-  {
-    "category": "MQ",
-    "title": "MQ 道德智商：正直誠信的競賽風雲",
-    "description": "面對競賽中的計分異常與勝利誘惑，選擇誠實、負責與尊重公平，實踐良好品格。",
-    "src": "comics/03-MQ-integrity-competition.webp",
-    "alt": "MQ 道德智商漫畫：正直誠信的競賽風雲"
+    "category": "3Q",
+    "title": "3Q 青年探索家：AQ × EQ × MQ 綜合冒險故事",
+    "description": "以科學展覽挑戰為主軸，呈現面對挫折、管理情緒、團隊合作與誠信守規的 3Q 品格實踐。",
+    "src": "comics/3Q-teen-explorers-adventure.webp",
+    "alt": "3Q 青年探索家：AQ × EQ × MQ 綜合冒險故事"
   },
   {
     "category": "3Q",
-    "title": "3Q 超能冒險：AQ × EQ × MQ 綜合篇",
-    "description": "以冒險故事串連逆境韌性、情緒同理與誠信正直，適合做為三大核心能力的總結閱讀。",
-    "src": "comics/04-3Q-super-adventure.webp",
-    "alt": "3Q 超能冒險綜合漫畫：AQ、EQ、MQ"
+    "title": "3Q 小小達人：綜合冒險故事",
+    "description": "透過運動競賽情境，帶領學生練習面對失敗、調節情緒、互助合作與欣賞他人。",
+    "src": "comics/3Q-little-masters-adventure.webp",
+    "alt": "3Q 小小達人：綜合冒險故事"
+  },
+  {
+    "category": "MQ",
+    "title": "MQ 道德智商：小勇小飛的失物招領大考驗",
+    "description": "從拾獲他人遺失物品的情境，思考誠實、自律、同理與主動歸還的重要。",
+    "src": "comics/MQ-lost-and-found-honesty-challenge.webp",
+    "alt": "MQ 道德智商：小勇小飛的失物招領大考驗"
+  },
+  {
+    "category": "EQ",
+    "title": "EQ 情緒智商：小勇的 EQ 魔法",
+    "description": "透過等待與衝突情境，練習覺察情緒、深呼吸、換位思考及友善溝通。",
+    "src": "comics/EQ-from-anger-to-smile.webp",
+    "alt": "EQ 情緒智商：小勇的 EQ 魔法"
+  },
+  {
+    "category": "MQ",
+    "title": "MQ 道德智商：守護自然的 MQ 精神",
+    "description": "面對生態觀察與競賽誘惑，學習尊重生命、遵守規範、誠實負責並守護自然。",
+    "src": "comics/MQ-protect-nature-integrity.webp",
+    "alt": "MQ 道德智商：守護自然的 MQ 精神"
+  },
+  {
+    "category": "EQ",
+    "title": "EQ 情緒智商：三民國小 EQ 合作昆蟲展",
+    "description": "從小組意見不同的情境，練習暫停、傾聽、理解不同想法與合作整合方案。",
+    "src": "comics/EQ-teamwork-insect-exhibition.webp",
+    "alt": "EQ 情緒智商：三民國小 EQ 合作昆蟲展"
+  },
+  {
+    "category": "AQ",
+    "title": "AQ 逆境智商：水火箭逆風起飛",
+    "description": "水火箭試射失敗後，透過觀察問題、調整設計與再次嘗試，展現從失敗中學習的韌性。",
+    "src": "comics/AQ-water-rocket-resilience-challenge.webp",
+    "alt": "AQ 逆境智商：水火箭逆風起飛"
+  },
+  {
+    "category": "AQ",
+    "title": "AQ 逆境智商：勇闖積木城堡",
+    "description": "積木城堡倒塌後，主角接納失敗、冷靜找原因、改變方法並勇敢再試一次。",
+    "src": "comics/AQ-block-castle-resilience.webp",
+    "alt": "AQ 逆境智商：勇闖積木城堡"
   }
 ]
